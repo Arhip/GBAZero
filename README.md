@@ -43,5 +43,5 @@ Gamebody advanced zero projet
 
 ## Controls
 #### Circuit:
-    Button tracers > GPIO Pins
+    Button traces > GPIO Pins
 
