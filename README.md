@@ -38,6 +38,7 @@ Tested current draw of Pi Zero
 
 Source: https://www.raspberrypi.org/forums/viewtopic.php?t=144267
 No failed tests at any voltage
+
 #### Components: 
     1. Battery
       - 2000 mAH LiPo
