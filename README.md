@@ -27,17 +27,18 @@ Gamebody advanced zero projet
     Filter > Amplifier > Headphone Jack > Speaker
       
 ## Power/Battery
-Tested current draw of Pi Zero
+    Tested current draw of Pi Zero
 
-5.00V 170-180mA (67mA idle)
-4.00V 200-210mA (79mA idle)
-3.00V 260-270mA (94mA idle)
-2.80V 270-280mA
-2.70V 280-290mA occasional reboots
-2.60V will not run
+        5.00V 170-180mA (67mA idle)
+        4.00V 200-210mA (79mA idle)
+        3.00V 260-270mA (94mA idle)
+        2.80V 270-280mA
+        2.70V 280-290mA occasional reboots
+        2.60V will not run
 
-Source: https://www.raspberrypi.org/forums/viewtopic.php?t=144267
-No failed tests at any voltage
+    No failed tests at any voltage
+    Source: https://www.raspberrypi.org/forums/viewtopic.php?t=144267
+
 
 #### Components: 
     1. Battery
