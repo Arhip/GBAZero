@@ -62,5 +62,6 @@ Gamebody advanced zero projet
     
 ## Resources
 [GPIO Functions](https://elinux.org/RPi_BCM2835_GPIOs)
+
 [Game Boy Zero Wiki Guide](https://www.sudomod.com/wiki/index.php/Game_Boy_Zero)
 
