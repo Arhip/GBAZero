@@ -23,8 +23,10 @@ Gamebody advanced zero projet
     3. Speaker (Original)
     
     4. Headphone Jack (Original)
+    
 #### Circuit:
     Filter > Amplifier > Headphone Jack > Speaker
+    Source: https://learn.adafruit.com/adding-basic-audio-ouput-to-raspberry-pi-zero/pi-zero-pwm-audio
       
 ## Power/Battery
     Tested current draw of Pi Zero
@@ -57,4 +59,8 @@ Gamebody advanced zero projet
 ## Controls
 #### Circuit:
     Button traces > GPIO Pins
+    
+## Resources
+[GPIO Functions](https://elinux.org/RPi_BCM2835_GPIOs)
+[Game Boy Zero Wiki Guide](https://www.sudomod.com/wiki/index.php/Game_Boy_Zero)
 
