@@ -57,6 +57,9 @@ Gamebody advanced zero projet
 #### Circuit:
     Button traces > GPIO Pins
     
+## Parts
+[BW 3.5 Inch TFT LCD Monitor](https://www.amazon.com/BW-3-5-Inch-Monitor-Automobile/dp/B0045IIZKU/ref=sr_1_1?ie=UTF8&qid=1546575336&sr=8-1&keywords=BW+3.5+Inch+TFT)
+
 ## Resources
 [GPIO Functions](https://elinux.org/RPi_BCM2835_GPIOs)
 
