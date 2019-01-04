@@ -26,7 +26,6 @@ Gamebody advanced zero projet
     
 #### Circuit:
     Filter > Amplifier > Headphone Jack > Speaker
-    Source: https://learn.adafruit.com/adding-basic-audio-ouput-to-raspberry-pi-zero/pi-zero-pwm-audio
       
 ## Power/Battery
     Tested current draw of Pi Zero
@@ -39,8 +38,6 @@ Gamebody advanced zero projet
         2.60V will not run
 
     No failed tests at any voltage
-    Source: https://www.raspberrypi.org/forums/viewtopic.php?t=144267
-
 
 #### Components: 
     1. Battery
@@ -64,4 +61,8 @@ Gamebody advanced zero projet
 [GPIO Functions](https://elinux.org/RPi_BCM2835_GPIOs)
 
 [Game Boy Zero Wiki Guide](https://www.sudomod.com/wiki/index.php/Game_Boy_Zero)
+
+[Pi Zero PWM Audio](https://learn.adafruit.com/adding-basic-audio-ouput-to-raspberry-pi-zero/pi-zero-pwm-audio)
+
+[Pi Zero at Low Voltages](https://www.raspberrypi.org/forums/viewtopic.php?t=144267)
 
