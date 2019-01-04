@@ -62,6 +62,8 @@ Gamebody advanced zero projet
 
 [Game Boy Zero Wiki Guide](https://www.sudomod.com/wiki/index.php/Game_Boy_Zero)
 
+[Pi Zero PWM Audio Schematic](https://learn.adafruit.com/adding-basic-audio-ouput-to-raspberry-pi-zero)
+
 [Pi Zero PWM Audio](https://learn.adafruit.com/adding-basic-audio-ouput-to-raspberry-pi-zero/pi-zero-pwm-audio)
 
 [Pi Zero at Low Voltages](https://www.raspberrypi.org/forums/viewtopic.php?t=144267)
